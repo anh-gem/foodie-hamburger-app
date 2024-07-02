@@ -63,7 +63,9 @@ nav {
 .navbarHide li a {
     display: none;
 }
-
+.navbarShow ul{
+    display: none;
+}
 #cover{
    width: 90%;
    margin-top: 100px;
